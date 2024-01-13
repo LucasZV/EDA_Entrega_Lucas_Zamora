@@ -1,1 +1,4 @@
-Exploratory analysis on Spotify Database, how diferent traits are related with tracks popularity.
+Análisis Exploratorio de datos sobre la base de datos de canciones de Spotify.
+
+Utilizando pandas para la limpieza y unión de diferentes bases de datos y las librerías matplotlib/seaborn para la visualización gráfica de los mismos.
+
